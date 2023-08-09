@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-18">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/async-http-client-2.12.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/async-http-client-netty-utils-2.12.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/auto-common-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/auto-service-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/auto-service-annotations-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/byte-buddy-1.12.18.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/checker-qual-3.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/error_prone_annotations-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/failsafe-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/guava-31.1-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/j2objc-annotations-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/jakarta.activation-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/jcommander-1.82.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/jtoml-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/netty-buffer-4.1.84.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/netty-codec-4.1.84.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/netty-codec-http-4.1.84.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/netty-codec-socks-4.1.84.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/netty-common-4.1.84.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/netty-handler-4.1.84.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/netty-handler-proxy-4.1.84.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/netty-reactive-streams-2.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/netty-resolver-4.1.84.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/netty-transport-4.1.84.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/netty-transport-classes-epoll-4.1.84.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/netty-transport-classes-kqueue-4.1.84.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/netty-transport-native-epoll-4.1.84.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/netty-transport-native-kqueue-4.1.84.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/netty-transport-native-unix-common-4.1.84.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/opentelemetry-api-1.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/opentelemetry-api-logs-1.19.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/opentelemetry-context-1.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/opentelemetry-exporter-common-1.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/opentelemetry-exporter-logging-1.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/opentelemetry-sdk-1.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/opentelemetry-sdk-common-1.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/opentelemetry-sdk-extension-autoconfigure-1.19.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/opentelemetry-sdk-extension-autoconfigure-spi-1.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/opentelemetry-sdk-logs-1.19.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/opentelemetry-sdk-metrics-1.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/opentelemetry-sdk-trace-1.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/opentelemetry-semconv-1.19.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/reactive-streams-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/selenium-api-4.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/selenium-api-4.7.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/selenium-chrome-driver-4.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/selenium-chrome-driver-4.7.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/selenium-chromium-driver-4.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/selenium-chromium-driver-4.7.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/selenium-devtools-v85-4.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/selenium-devtools-v85-4.7.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/selenium-devtools-v106-4.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/selenium-devtools-v106-4.7.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/selenium-devtools-v107-4.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/selenium-devtools-v107-4.7.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/selenium-devtools-v108-4.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/selenium-devtools-v108-4.7.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/selenium-edge-driver-4.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/selenium-edge-driver-4.7.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/selenium-firefox-driver-4.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/selenium-firefox-driver-4.7.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/selenium-http-4.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/selenium-http-4.7.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/selenium-ie-driver-4.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/selenium-ie-driver-4.7.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/selenium-java-4.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/selenium-java-4.7.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/selenium-json-4.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/selenium-json-4.7.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/selenium-manager-4.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/selenium-manager-4.7.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/selenium-remote-driver-4.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/selenium-remote-driver-4.7.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/selenium-safari-driver-4.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/selenium-safari-driver-4.7.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/selenium-support-4.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/selenium-support-4.7.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.7.1/All Files/slf4j-api-2.0.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
